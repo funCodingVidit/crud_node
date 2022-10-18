@@ -1,0 +1,5 @@
+{
+  "PORT": 3002,
+  "JWT_SEC_KEY": "hjguj78sjaoxdfrs",
+  "DB_URL": "mongodb+srv://vidit:vidit1234@cluster0.rdix4fg.mongodb.net/company?retryWrites=true&w=majority"
+}
